@@ -37,4 +37,4 @@ Sobre mim:
   <a href="https://www.linkedin.com/in/eduardo-kaique-furlaneto-812161202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-!(https://github.com/eduardokaique99/eduardokaique99/blob/output/github-contribution-grid-snak.svg)
+![Snake animation](https://github.com/eduardokaique99/eduardokaique99/blob/output/github-contribution-grid-snak.svg)
