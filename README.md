@@ -5,7 +5,6 @@
 Sobre mim:
 - 🔭 Cursando Faculdade em Análise e Desenvolvimento de Sistemas
 - 🧬 Em constante evolução
-- 🎮 Gosto de Jogos de PC e seriados
 
 ###
 
