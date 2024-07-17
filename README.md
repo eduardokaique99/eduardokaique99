@@ -3,8 +3,8 @@
 ###
 
 Sobre mim:
-- 🔭 Cursando Faculdade em Análise e Desenvolvimento de Sistemas
-- 🧬 Em constante evolução
+- 🔭 Formado no Tecnologo de Análise e Desenvolvimento de Sistemas
+- 🧬 Foco em qualidade de software
 
 ###
 
